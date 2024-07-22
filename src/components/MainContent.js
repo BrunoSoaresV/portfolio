@@ -7,7 +7,7 @@ const MainContent = () => (
     <section id="about" className="mb-5">
       <h2>About Me</h2>
       <p>Junior full-stack developer with a solid educational background and practical experience in software development projects. Currently pursuing a Bachelor's degree in Computer Science at the renowned Federal University of Ouro Preto, where I am honing my technical and theoretical skills to excel in the technology market. I began my journey in the world of computing at the Federal Institute of Education, Science, and Technology of Minas Gerais, where I completed a technical course in computer science with excellence. During this period, I gained a broad understanding of computer science fundamentals and acquired knowledge in programming languages, algorithms, and data structures.</p>
-      <p>One of the most enriching experiences during my technical course was leading a Final Course Project (TCC) focused on facial recognition for employee time tracking in companies. This experience sparked my interest in developing innovative and challenging solutions. Using technologies such as PHP, JavaScript, Python, CSS, HTML, both front-end and back-end frameworks, and relational databases (PostgreSQL), we developed a complete and functional platform. Additionally, I managed the team, project planning, and execution, which strengthened my leadership, communication, and time management skills.</p>
+      <p>My focus is on artificial intelligence and web development. I am currently expanding my knowledge in neural networks, Large Language Models (LLM), and artificial intelligence, in addition to technologies such as Node.js, React, Vue, TypeScript, and JavaScript. One of the most enriching experiences during my technical course was leading a Final Course Project (TCC) focused on facial recognition for employee time tracking in companies. This experience sparked my interest in developing innovative and challenging solutions. Using technologies such as PHP, JavaScript, Python, CSS, HTML, both front-end and back-end frameworks, and relational databases (PostgreSQL), we developed a complete and functional platform. Additionally, I managed the team, project planning, and execution, which strengthened my leadership, communication, and time management skills.</p>
       <p>My goal is to continue growing professionally and contribute to challenging and innovative projects in a collaborative and dynamic environment. I am always open to learning new technologies and industry trends, seeking to apply my theoretical knowledge and practical experience to creatively and efficiently solve complex problems.</p>
     </section>
     
@@ -55,6 +55,9 @@ const MainContent = () => (
 
     <section id="experience" className="mb-5">
       <h2>Professional Experience</h2>
+      <h3>Plugthink</h3>
+      <p>Internship focusing on Python, artificial intelligence, and Django, where I am developing process automation routines, creating bots for process automation, importing and processing information (XML, JSON, CSV), and interacting with AI systems to generate alerts. I am also learning about the dynamics of B2B (business-to-business) sales.</p>
+      <p><strong>Jul. 2024 – Present</strong></p>
       <h3>National Council for Scientific and Technological Development</h3>
       <p>Researcher and PIBIC-JR scholarship holder for the project "Misinformation and Its Impacts on the COVID-19 Pandemic: The Brazilian Case".</p>
       <p>Developer, researcher, and leader for the production of articles upon conclusion of the research. Developer of a program for cataloging important information.</p>
